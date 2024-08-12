@@ -1,0 +1,60 @@
+@media only screen and (min-width:0px) and (max-width:567px){
+    .mid-section h1{
+        font-size: 30px;
+        }
+
+    .mid-section h2{
+        font-size: 20px;
+        }
+        
+        .news-item h3{
+            font-size: 28px;
+            line-height: 35px;
+            letter-spacing: 1.8px !important
+        }
+
+        .news-item p{
+            font-size: 15px;
+            padding-top: 7px;
+        }
+
+        .hey{
+            
+            padding-left: 30%;
+        }
+
+        .news-left-sidebar{
+            padding-bottom: 20px;
+
+        }
+
+        .footer-top{
+            margin-top: -30px;
+        }
+
+        .logos1{
+            display: flex;
+            padding-right: -30px;
+        }
+
+        .logos1 .s-links{
+            padding-left: 35px;
+            margin-top: -20px;
+        }
+
+        .selects{
+            margin-top: -20px;
+        }
+
+        .footer-top .links{
+            margin-left: 20px;
+            padding: 10px;
+        }
+        .footer-top .links2{
+            margin-left: 25px;
+            
+            padding: 5px;
+        }
+
+        
+}
